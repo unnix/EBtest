@@ -1,0 +1,13 @@
+[global]
+ApplicationName=unnix
+AwsCredentialFile=c:/Users/hiroaki\.elasticbeanstalk\aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=sampledrupal
+OptionSettingFile=c:\Users\hiroaki\EBtest\.elasticbeanstalk\optionsettings.sampledrupal
+RdsDeletionPolicy=Snapshot
+RdsEnabled=Yes
+RdsSourceSnapshotName=
+Region=us-east-1
+ServiceEndpoint=https://elasticbeanstalk.us-east-1.amazonaws.com
+SolutionStack=64bit Amazon Linux running PHP 5.4
+
